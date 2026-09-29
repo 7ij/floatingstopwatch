@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FloatWatch</string>
+    <string name="notification_channel_name">Stopwatch Service</string>
+    <string name="notification_channel_desc">Active floating stopwatch timer notifications</string>
+    <string name="overlay_permission_title">Overlay Permission Needed</string>
+    <string name="overlay_permission_desc">FloatWatch needs permission to display over other apps so you can track time while gaming, studying, or working.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="start_floating">Start Floating Stopwatch</string>
+    <string name="stop_floating">Stop Floating Stopwatch</string>
+</resources>

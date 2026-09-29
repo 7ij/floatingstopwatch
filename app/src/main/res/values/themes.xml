@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.FloatWatch" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0D0F14</item>
+        <item name="android:navigationBarColor">#0D0F14</item>
+    </style>
+</resources>
